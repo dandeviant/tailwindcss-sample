@@ -1,4 +1,3 @@
 # tailwindcss-sample
 
-First commit
-Deleted commit
+Created: Oct 23rd, 2022
